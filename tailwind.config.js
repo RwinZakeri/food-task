@@ -6,12 +6,15 @@ module.exports = {
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
-    extend: {
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
-      },
+    colors: {
+      // Configure your color palette here
+      primeColor: "#F1F1F1",
+      primeOrange: "#FF6B00",
+      primeWhite: "#FFFFFF",
+      primeText: "#5F5F5F",
+    },
+    fontFamily: {
+      Urbanist: "Urbanist",
     },
   },
   plugins: [],

@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "title": "main",
+    "imgAddress": "/images/productBarImages/itemOne.png",
+    "items": [
+      {
+        "id": 1,
+        "title": "Garlic Butter Steak with Asparagus",
+        "imgAddress": "/images/productBarImages/foodOne.png",
+        "price": 18
+      },
+      {
+        "id": 2,
+        "title": "Mediterranean Chicken Quinoa ",
+        "imgAddress": "/images/productBarImages/foodTwo.png",
+        "price": 18
+      },
+      {
+        "id": 3,
+        "title": "Garlic Butter Steak with Asparagus",
+        "imgAddress": "/images/productBarImages/foodOne.png",
+        "price": 18
+      },
+      {
+        "id": 4,
+        "title": "Mediterranean Chicken Quinoa ",
+        "imgAddress": "/images/productBarImages/foodTwo.png",
+        "price": 18
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "soups",
+    "imgAddress": "/images/productBarImages/itemTwo.png",
+    "items": [
+      {
+        "id": 1,
+        "title": "Rwin food",
+        "imgAddress": "/images/productBarImages/foodOne.png",
+        "price": 18
+      },
+      {
+        "id": 2,
+        "title": "Amir Food ",
+        "imgAddress": "/images/productBarImages/foodOne.png",
+
+        "price": 18
+      },
+      {
+        "id": 3,
+        "title": "random food",
+        "imgAddress": "/images/productBarImages/foodTwo.png",
+
+        "price": 18
+      },
+      {
+        "id": 4,
+        "title": "no food",
+        "imgAddress": "/images/productBarImages/foodTwo.png",
+        "price": 18
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "salads",
+    "imgAddress": "/images/productBarImages/itemThree.png"
+  },
+  {
+    "id": 4,
+    "title": "drinks",
+    "imgAddress": "/images/productBarImages/itemFour.png"
+  }
+]
